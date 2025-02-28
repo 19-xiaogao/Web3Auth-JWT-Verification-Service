@@ -22,7 +22,7 @@ This is a Go-based microservice for verifying Web3Auth JWT tokens and validating
 
 ```bash
 # Clone the repository
-git clone https://github.com/yourusername/web3auth-jwt-verifier.git
+git clone https://github.com/19-xiaogao/Web3Auth-JWT-Verification-Service.git
 
 # Navigate to project directory
 cd web3auth-jwt-verifier
