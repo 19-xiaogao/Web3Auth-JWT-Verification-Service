@@ -25,7 +25,7 @@ This is a Go-based microservice for verifying Web3Auth JWT tokens and validating
 git clone https://github.com/19-xiaogao/Web3Auth-JWT-Verification-Service.git
 
 # Navigate to project directory
-cd web3auth-jwt-verifier
+cd Web3Auth-JWT-Verification-Service
 
 # Download dependencies
 go mod download
